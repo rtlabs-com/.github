@@ -6,7 +6,7 @@
     />
     <img
     src="./images/rtlabs_logo.png"
-    alt="Web Dev Resources Logo"
+    alt="RT-Labs AB Logo"
     width="300"
     />
   </picture>
