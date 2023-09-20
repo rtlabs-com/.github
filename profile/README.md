@@ -14,7 +14,7 @@
 
 ### **Make your product commuinicate**
 
-Welcome to the official GitHub repository of RT-Labs, where we offer state-of-the-art industrial ethernet stacks tailored for high-performance and reliability.
+Welcome to the official GitHub repository of RT-Labs, where we offer state-of-the-art industrial ethernet and fieldbus stacks, tailored for high-performance and reliability.
 
 ## 🌟 Features
 
