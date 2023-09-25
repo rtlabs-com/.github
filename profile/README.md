@@ -18,7 +18,7 @@ Welcome to the official GitHub repository of RT-Labs, where we offer state-of-th
 
 ## 🌟 Features
 
-- **Open-source Core**: Access our industrial communnication stacks right here on GitHub.
+- **Open-source Core**: Access our industrial communication stacks right here on GitHub.
 - **High-Performance**: Built for real-time applications and demanding industrial environments.
 - **Wide Compatibility**: Our stacks are compatible with a wide range of processors and operating systems.
 
