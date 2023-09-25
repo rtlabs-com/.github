@@ -12,7 +12,7 @@
   </picture>
 </div>
 
-### **Make your product commuinicate**
+### **Make your product communicate**
 
 Welcome to the official GitHub repository of RT-Labs, where we offer state-of-the-art industrial ethernet and fieldbus stacks, tailored for ease of use and device compability.
 
