@@ -1,11 +1,11 @@
  <div align="left">
   <picture>
     <source
-    srcset="./images/rtlabs_logo_white_text.png"
+    srcset="../images/rtlabs_logo_white_text.png"
     media="(prefers-color-scheme: dark)"
     />
     <img
-    src="./images/rtlabs_logo.png"
+    src="../images/rtlabs_logo.png"
     alt="RT-Labs AB Logo"
     width="300"
     />
@@ -19,13 +19,13 @@ Welcome to the official GitHub repository of RT-Labs, where we offer state-of-th
 ## 💾 Products
 |Stack|Description|
 |:---:|:-|
-| <a href="https://github.com/rtlabs-com/p-net"> <img src="./images/p-net.svg" alt="P-Net" style="height: 125px; width:125px;"/> </a>  | P-Net is a Profinet IO stack, compliant with specification 2.4 with Conformance Class A & B and Real Time Class 1. |
-| <a href="https://github.com/OpenEtherCATsociety/SOEM"> <img src="./images/soem.svg" alt="SOEM" style="height: 125px; width:125px;"/> </a>  | SOEM is an EtherCAT Master stack that is very easy to use and provides a small footprint. |
-| <a href="https://github.com/OpenEtherCATsociety/SOES"> <img src="./images/soes.svg" alt="SOES" style="height: 125px; width:125px;"/> </a>  | SOES is an EtherCAT Slave Library, written in C and used to write custom EtherCAT Slave applications. |
-| <a href="https://github.com/rtlabs-com/i-link"> <img src="./images/i-link.svg" alt="I-Link" style="height: 125px; width:125px;"/> </a>  | I-link is an IO-Link master stack following specification 2.3, Conformance Class A & B and Real Time Class 1. |
-| <a href="https://github.com/rtlabs-com/m-bus"> <img src="./images/m-bus.svg" alt="M-Bus" style="height: 125px; width:125px;"/> </a>  | M-Bus is a Modbus stack supporting both RTU and TCP modes as a server or client. |
-| <a href="https://github.com/rtlabs-com/c-open"> <img src="./images/c-open.svg" alt="C-Open" style="height: 125px; width:125px;"/> </a>  | C-Open is a CANopen stack used to implement resource efficient CANopen masters or devices. |
-| <a href="https://github.com/rtlabs-com/c-link"> <img src="./images/c-link_master_device.svg" alt="C-Link" style="height: 125px; width:125px;"/> </a>  | C-Link is an efficient CC-Link IE Field Basic master and device stack. |
+| <a href="https://github.com/rtlabs-com/p-net"> <img src="../images/p-net.svg" alt="P-Net" style="height: 125px; width:125px;"/> </a>  | P-Net is a Profinet IO stack, compliant with specification 2.4 with Conformance Class A & B and Real Time Class 1. |
+| <a href="https://github.com/OpenEtherCATsociety/SOEM"> <img src="../images/soem.svg" alt="SOEM" style="height: 125px; width:125px;"/> </a>  | SOEM is an EtherCAT Master stack that is very easy to use and provides a small footprint. |
+| <a href="https://github.com/OpenEtherCATsociety/SOES"> <img src="../images/soes.svg" alt="SOES" style="height: 125px; width:125px;"/> </a>  | SOES is an EtherCAT Slave Library, written in C and used to write custom EtherCAT Slave applications. |
+| <a href="https://github.com/rtlabs-com/i-link"> <img src="../images/i-link.svg" alt="I-Link" style="height: 125px; width:125px;"/> </a>  | I-link is an IO-Link master stack following specification 2.3, Conformance Class A & B and Real Time Class 1. |
+| <a href="https://github.com/rtlabs-com/m-bus"> <img src="../images/m-bus.svg" alt="M-Bus" style="height: 125px; width:125px;"/> </a>  | M-Bus is a Modbus stack supporting both RTU and TCP modes as a server or client. |
+| <a href="https://github.com/rtlabs-com/c-open"> <img src="../images/c-open.svg" alt="C-Open" style="height: 125px; width:125px;"/> </a>  | C-Open is a CANopen stack used to implement resource efficient CANopen masters or devices. |
+| <a href="https://github.com/rtlabs-com/c-link"> <img src="../images/c-link_master_device.svg" alt="C-Link" style="height: 125px; width:125px;"/> </a>  | C-Link is an efficient CC-Link IE Field Basic master and device stack. |
 
 ## 🌟 Features
 
